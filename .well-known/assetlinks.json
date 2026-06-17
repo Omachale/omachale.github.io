@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.omachale.twa",
+    "sha256_cert_fingerprints":
+      ["F1:F3:92:CF:F9:0E:D6:69:0C:79:0D:58:39:9E:30:10:55:8B:DC:E8:52:7A:E1:C2:98:7E:4B:BA:9A:A8:71:08"]
+  }
+}]
